@@ -4,15 +4,21 @@ You can find the model weights here:
 
 # Model.summary: Unet with EfficientNetb2 as backbone
 
-The development of the CNN architecture for CM segmentation can be found here:
+The development of the CNN architecture for the CM segmentation can be found here (also for a better visualization):
+
 https://colab.research.google.com/drive/1-sXpY6MjnEotHUHMvD0zsVXnaj0iAmjO#scrollTo=cGRPPSBRktou&line=18&uniqifier=1
+
+
+
 
 As an overview of the model:
 
 Model: "UNet with EfficientNetb2 as backbone"
-__________________________________________________________________________________________________
-Layer (type)                    Output Shape         Param #     Connected to                     
-==================================================================================================
+
+Layer (type)    ---- //      ----    Output Shape  ---- //   ----    Param #    ----  //   ----  Connected to  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 input_1 (InputLayer)            [(None, 512, 896, 1) 0                                            
 __________________________________________________________________________________________________
 stem_conv (Conv2D)              (None, 256, 448, 32) 288         input_1[0][0]                    
@@ -801,7 +807,7 @@ ________________________________________________________________________________
 final_conv (Conv2D)             (None, 512, 896, 3)  435         decoder_stage4b_relu[0][0]       
 __________________________________________________________________________________________________
 softmax (Activation)            (None, 512, 896, 3)  0           final_conv[0][0]                 
-==================================================================================================
+
 Total params: 14,295,013
 Trainable params: 14,225,461
 Non-trainable params: 69,552
