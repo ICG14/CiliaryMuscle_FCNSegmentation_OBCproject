@@ -4,7 +4,12 @@ You can find the model weights here:
 
 # Model.summary: Unet with EfficientNetb2 as backbone
 
-Model: "model"
+The development of the CNN architecture for CM segmentation can be found here:
+https://colab.research.google.com/drive/1-sXpY6MjnEotHUHMvD0zsVXnaj0iAmjO#scrollTo=cGRPPSBRktou&line=18&uniqifier=1
+
+As an overview of the model:
+
+Model: "UNet with EfficientNetb2 as backbone"
 __________________________________________________________________________________________________
 Layer (type)                    Output Shape         Param #     Connected to                     
 ==================================================================================================
