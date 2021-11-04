@@ -8,7 +8,7 @@ The development of the CNN architecture for the CM segmentation can be found her
 
 https://colab.research.google.com/drive/1-sXpY6MjnEotHUHMvD0zsVXnaj0iAmjO#scrollTo=cGRPPSBRktou&line=18&uniqifier=1
 
-
+Video of the subject #1:  https://drive.google.com/file/d/1pZkeQsuEdYNsphBnyfntAhIiLQcSdATu/view?usp=sharing
 
 
 As an overview of the model:
