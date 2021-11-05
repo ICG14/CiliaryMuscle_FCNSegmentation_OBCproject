@@ -11,7 +11,12 @@ The FCN architecture for the CM segmentation can be found here (also for a bette
 https://colab.research.google.com/drive/1-sXpY6MjnEotHUHMvD0zsVXnaj0iAmjO?usp=sharing
 
 An example of the FCN implementation can be found here:
-The dataset to prove the FCN (Subject 3): 
+The dataset to prove the FCN (Subject 3):  https://colab.research.google.com/drive/11A65-3U4HaX6rJbhECsa3-94Qz2NqCvR?usp=sharing
+
+The dataset of the subject #3 can be found in this zip: https://drive.google.com/file/d/161MPrqWyZsYFaXzEuseLPfcV8sxB-rb0/view?usp=sharing
+S_3.npz corresponds to the whole recording (160 frames/images).
+S_3_test.npz contains the original and groundtruth images (17).
+S_3_annotation contains the groundtruth images. They are in different format as in S_3_test.npz for their easy processing.
 
 # Automatic segmentation videos
 
