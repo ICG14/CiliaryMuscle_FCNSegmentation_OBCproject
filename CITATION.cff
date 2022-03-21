@@ -6,6 +6,12 @@ authors:
   orcid: "https://orcid.org/0000-0001-8219-2365"
 - family-names: "Ruggeri"
   given-names: "Marco"
+  - family-names: "Yu-Cherng"
+  given-names: "Chang"
+  - family-names: "Calvo"
+  given-names: "Begoña"
+  - family-names: "Manns"
+  given-names: "Fabrice"
 title: "CiliaryMuscle_FCNSegmentation_OBCproject"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
