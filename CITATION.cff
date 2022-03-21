@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors: IULEN CABEZA-GIL, MARCO RUGGERI, YU-CHERNG CHANG, BEGOÑA CALVO, FABRICE MANNS
-title: "CiliaryMuscle_FCNSegmentation_OBCproject"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2022-03-21
-url: "https://github.com/ICG14/CiliaryMuscle_FCNSegmentation_OBCproject"
