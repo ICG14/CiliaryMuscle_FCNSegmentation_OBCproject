@@ -1,17 +1,19 @@
 # CiliaryMuscle_FCN_Segmentation
 
-The FCN can be found here: https://drive.google.com/file/d/15l3pWy99m8SjALXy8QmH1hvgPsirVLwR/view?usp=sharing
-Another FCN with a different training dataset (Sometimes can outperform the other one): https://drive.google.com/file/d/15l_Kix7iLysqgOvRJzMzcNUa76QiRQ3m/view?usp=sharing
+The FCN can be found here: https://unizares-my.sharepoint.com/:u:/g/personal/iulen_unizar_es/ES4bNxVrp2xMlMgXkyZaTfMBv_r2MsX1vnwagNfmjcgjvg?e=cUqQaH
+Another FCN with a different training dataset (Sometimes can outperform the other one): https://unizares-my.sharepoint.com/:u:/g/personal/iulen_unizar_es/EQBMM8enrGFAqDUIQXW1sI4BBrQQd5Ng5NdGvOMg4ACYWQ?e=Aho6kD
 
-You can find the model weights for transfer learning here: https://drive.google.com/file/d/15lDwqYdHAr7UGOWaS2L-auoDsUBB0oEc/view?usp=sharing
+You can find the model weights for transfer learning here: https://unizares-my.sharepoint.com/:u:/g/personal/iulen_unizar_es/EfjA68CKAvREqnXQtYHuifkBfER0-veFU6svmdoLJSZNUQ?e=dlA6SO
 
 # Model.summary: Unet with EfficientNetb2 as backbone
 
 
-An example of the FCN implementation can be found here: https://colab.research.google.com/drive/11A65-3U4HaX6rJbhECsa3-94Qz2NqCvR?usp=sharing
+An example of the FCN implementation can be found in the files uploaded to the project.
 The FCN architecture for the CM segmentation can also be found in the link above.
 
-The dataset of the subject #3 can be found in this zip: https://drive.google.com/file/d/161MPrqWyZsYFaXzEuseLPfcV8sxB-rb0/view?usp=sharing
+The dataset of the subject #3 can be found in this zip: https://unizares-my.sharepoint.com/:u:/g/personal/iulen_unizar_es/EX_RO3T0DMROoHF9ExIxQ4gBbYIOv5x-zeDnOHapz8CmEQ?e=pRJMRI
 S_3.npz corresponds to the whole recording (160 frames/images).
 S_3_test.npz contains the original and groundtruth images (17).
 S_3_annotation contains the groundtruth images. They are in different format as in S_3_test.npz for their easy processing.
+
+Sometimes the links are down. Please write to me to upload them again. Thank you.
