@@ -8,7 +8,8 @@ You can find the model weights for transfer learning here: https://unizares-my.s
 # Model.summary: Unet with EfficientNetb2 as backbone
 
 
-An example of the FCN implementation can be found in the files uploaded to the project.
+An example of the FCN implementation can be found in the files uploaded to the project:
+"Example_Use_FCN-CM_OBC_ICabeza-Gil.ipynb"
 The FCN architecture for the CM segmentation can also be found in the script above.
 
 The dataset of the subject #3 can be found in this zip: https://unizares-my.sharepoint.com/:u:/g/personal/iulen_unizar_es/EX_RO3T0DMROoHF9ExIxQ4gBbYIOv5x-zeDnOHapz8CmEQ?e=pRJMRI
